@@ -1,0 +1,14 @@
+# Node
+node_modules/
+dist/
+*.local
+
+# Секреты — НИКОГДА не коммитим
+.env
+.env.local
+frontend/.env
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
